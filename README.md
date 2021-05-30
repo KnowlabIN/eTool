@@ -1,5 +1,6 @@
 # eTool
 Collection of SEO Tools
+Knowlab eTools is a bundled collection of best online tools. There are wide variety of tools such as Invoice generator, XML Sitemap Generator, Plagiarism Checker, Article Rewriter & more.
 <div>
   <div>
     <div><a data-placement="top" data-toggle="tooltip" data-original-title="Article Rewriter" title="" href="https://dev.knowlab.in/etool/article-rewriter"><img alt="Article Rewriter" src="https://dev.knowlab.in/etool/theme/defaultclone/icons/article_rewriter.png">
